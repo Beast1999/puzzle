@@ -1,2 +1,2 @@
 # puzzle
-puzzle game
+puzzle game made with c++
